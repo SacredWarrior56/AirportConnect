@@ -1,1 +1,1 @@
-The attached code generates a database for an airport like situation that is integrated with the front end using php, javascript and css files.
+The attached code generates a database for an airport like situation that is integrated with the front end using php, javascript and css files. It uses MySQL to create relevant tables and complex sql queries to retrieve the necessary data.
